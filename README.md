@@ -1,4 +1,4 @@
-# Lear kubeflow from arrikto server
+# Learn kubeflow from arrikto server
 
 * Learn components 
 * Learn pipeline 
