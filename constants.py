@@ -1,0 +1,5 @@
+USERNAME = "user"
+PASSWORD = "y5f9Yrhvrw"
+NAMESPACE = "kubeflow-user"
+HOST = "https://phamtrungson-01.endpoints.arr-kf-phamtrungson.cloud.goog/_"
+#HOST define from tutorial = "http://xxx.ngrok.io/"
